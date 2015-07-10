@@ -1,0 +1,26 @@
+body
+	{
+	background-color: cbd2e7; 	
+	}
+h1
+	{
+	text-align: center;
+	font-family: arial;
+	color: navy;
+	}
+h3
+	{
+	text-align: center;
+	font-family: time new roman;
+	color: darkgreen;
+	}
+p
+	{
+	font-family: courier new;
+	color: navy;
+	}
+li
+	{
+	font-family: courier new;
+	color: navy;
+	}

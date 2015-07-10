@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/info.xsl"?>
+<zdjecia>
+<zamek>
+    <maly url="../graph/male/Osaka_Castle.jpg"/>
+    <duzy url="../graph/duze/Osaka_Castle.jpg"/>
+	    <opis>Zamek w Osace</opis>
+</zamek>
+<zamek>
+    <maly url="../graph/male/Himeji_Castle.jpg"/>
+    <duzy url="../graph/duze/Himeji_Castle.jpg"/>
+    <opis>Zamek w Himeji</opis>
+</zamek>
+<zamek>
+    <maly url="../graph/male/Inuyama_Castle.jpg"/>
+    <duzy url="../graph/duze/Inuyama_Castle.jpg"/>
+    <opis>Zamek w Inuyama</opis>
+</zamek>
+<zamek>
+    <maly url="../graph/male/Matsumoto_Castle.jpg"/>
+    <duzy url="../graph/duze/Matsumoto_Castle.jpg"/>
+    <opis>Zamek w Matsumoto</opis>
+</zamek>
+<zamek>
+    <maly url="../graph/male/Nagoya_Castle.jpg"/>
+    <duzy url="../graph/duze/Nagoya_Castle.jpg"/>
+    <opis>Zamek w Nagoya</opis>
+</zamek>
+</zdjecia>

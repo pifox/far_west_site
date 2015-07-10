@@ -1,0 +1,25 @@
+body
+	{
+	background-color: #FFFFCC; 
+	}
+h1	
+	{
+	font-family: Verdana; 
+	font-size: 30pt;
+	font-weight: bold;
+	text-align: center;
+	color: navy;
+	}
+h3
+	{
+	font-weight: bold;
+	text-align: center;
+	font-family: time new roman;
+	color: darkgreen;
+	}
+p
+	{
+	text-align: center;
+	font-family: courier new;
+	color: navy;
+	}
